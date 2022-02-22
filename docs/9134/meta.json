@@ -1,0 +1,41 @@
+{
+  "id": "9134",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Tipping Points - Globale Kippschalter im Subsystem des Klimas",
+  "abstract": "Tipping Points - Globale Kippschalter im Subsystem des Klimas",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Anna",
+      "name": "Kahr",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": "-35",
+    "longitude": "-145",
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Klimawandel",
+  "subtopic": "Planetare Grenzen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9134/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9134/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9134/icon.png",
+  "sources": []
+}
