@@ -1,0 +1,41 @@
+{
+  "id": "9135",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Coral Crisis - Global Change and Coral Bleaching",
+  "abstract": "Coral bleaching is the phenomena of whitening corals due to loss of symbiotic algae and / or their pigments. If this situation is persistent, the corals die, Many reefs all over the world are affected.",
+  "authors": [
+    {
+      "email": "fs604@uni-freiburg.de",
+      "firstname": "Freia",
+      "name": "Sedlmeier",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Australien",
+    "countries": [],
+    "continent": "Ozeanien",
+    "landscape": "Meer",
+    "latitude": -19.37,
+    "longitude": 148.69,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/9135/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/9135/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/9135/icon.png",
+  "sources": []
+}
