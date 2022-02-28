@@ -17,12 +17,12 @@
     }
   ],
   "location": {
-    "country": "Australien",
+    "country": null,
     "countries": [],
     "continent": "Ozeanien",
     "landscape": "Meer",
-    "latitude": -19.37,
-    "longitude": 148.69,
+    "latitude": -18.37,
+    "longitude": 152.69,
     "city": "",
     "region": ""
   },
