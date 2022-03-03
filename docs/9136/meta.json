@@ -1,0 +1,41 @@
+{
+  "id": "9136",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Gewappnet für den Wandel?",
+  "abstract": "Die Ökosystemleistung im Freiburger Stadtwald",
+  "authors": [
+    {
+      "email": "jb1333@uni-freiburg.de ",
+      "firstname": "Jette",
+      "name": "Banning",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Wald",
+    "latitude": 48,
+    "longitude": 7.6,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/9136/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/9136/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/9136/icon.png",
+  "sources": []
+}
