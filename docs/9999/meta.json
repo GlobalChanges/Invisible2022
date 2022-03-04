@@ -8,6 +8,7 @@
  "orientation": "landscape",
  "pdf": "https://globalchanges.github.io/Invisible2022/9999/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/Invisible2022/9999/thumbnail.png",
+ "tiles": "https://globalchanges.github.io/Invisible2022/9999/tiles.dzi",
  "authors": [
    { 
      "firstname": "Michael",
