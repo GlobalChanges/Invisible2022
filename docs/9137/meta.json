@@ -21,8 +21,8 @@
     "countries": ["Türkei","Syrien","Irak"],
     "continent": "Naher Osten",
     "landscape": "Mediterran",
-    "latitude": 42.5,
-    "longitude": 37.5,
+    "latitude": 37.5,
+    "longitude": 42.5,
     "city": "",
     "region": ""
   },
