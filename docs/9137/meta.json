@@ -1,0 +1,41 @@
+{
+  "id": "9137",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Wenn Wasser zur Waffe wird",
+  "abstract": "Wie die Türkei mit ihrer Wasserpolitik Syrien und dem Irak den Hahn zudreht",
+  "authors": [
+    {
+      "email": "ns384@uni-freiburg.de ",
+      "firstname": "Nina",
+      "name": "Sauer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Türkei","Syrien","Irak"],
+    "continent": "Naher Osten",
+    "landscape": "Mediterran",
+    "latitude": 42.5,
+    "longitude": 37.5,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Wasser",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9137/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9137/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9137/icon.png",
+  "sources": []
+}
