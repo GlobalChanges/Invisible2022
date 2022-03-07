@@ -1,0 +1,49 @@
+{
+  "id": "9139",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Der Klimawandel im Hochgebirge",
+  "abstract": "Ein Puzzle aus vielen Teilen: Der Klimawandel im Hochgebiorge",
+  "authors": [
+    {
+      "email": "fa127@uni-freiburg.de",
+      "firstname": "Florentin",
+      "name": "Allgeier",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "lw389@uni-freiburg.de",
+      "firstname": "Lea",
+      "name": "Wilbs",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": ["Österreich","Deutschland","Schweiz"],
+    "continent": "Europa",
+    "landscape": "Gebirge",
+    "latitude": 47.1,
+    "longitude": 11.6,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Klimaextreme",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2022/9139/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2022/9139/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2022/9139/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2022/9139/tiles.dzi",
+  "sources": []
+}
