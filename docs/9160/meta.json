@@ -1,0 +1,42 @@
+{
+  "id": "9160",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Der Durst der saudi-arabischen Wueste",
+  "abstract": "tatort: Der Durst der saudi-arabischen Wueste - Bewaesserung in der Wueste",
+  "authors": [
+    {
+      "email": "ms1868@uni-freiburg.de",
+      "firstname": "Marius",
+      "name": "Scherzinger",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Saudi-Arabien",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Wüste",
+    "latitude": 23.7,
+    "longitude": 44.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Desertifikation",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9160/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9160/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9160/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9160/tiles.dzi",
+  "sources": []
+}
