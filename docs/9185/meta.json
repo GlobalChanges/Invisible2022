@@ -1,0 +1,49 @@
+{
+  "id": "9185",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "KLimawandel in der Cordillera Blanca",
+  "abstract": "Vom lebenswichtigen Wasserspeicher zur lebensbedrohlichen Naturgefahr: Die Auswirkungen des Klimawandels auf die Cordillera Blanca",
+  "authors": [
+    {
+      "email": "vw125@uni-freiburg.de ",
+      "firstname": "Veronika",
+      "name": "Winter",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "vw125@uni-freiburg.de ",
+      "firstname": "Leonie",
+      "name": "Burke",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Peru",
+    "countries": [],
+    "continent": "Südamerika",
+    "landscape": "Gebirge",
+    "latitude": -9.120981,
+    "longitude": -77.604674,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9185/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9185/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9185/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9185/tiles.dzi",
+  "sources": []
+}

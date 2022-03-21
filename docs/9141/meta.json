@@ -1,0 +1,49 @@
+{
+  "id": "9141",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Tropische Gletscher in Peru",
+  "abstract": "Tropische Gletscher: Die Cordillera Blanca und der Callejon de Huaylas in Peru",
+  "authors": [
+    {
+      "email": "vw125@uni-freiburg.de ",
+      "firstname": "Leonie",
+      "name": "Burke",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "vw125@uni-freiburg.de ",
+      "firstname": "Veronika",
+      "name": "Winter",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Peru",
+    "countries": [],
+    "continent": "Südamerika",
+    "landscape": "Gebirge",
+    "latitude": -9.220981,
+    "longitude": -77.84674,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Ressourcen",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9141/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9141/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9141/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9141/tiles.dzi",
+  "sources": []
+}
