@@ -1,0 +1,42 @@
+{
+  "id": "9151",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Das Spiel mit dem Sand",
+  "abstract": "Das Spiel mit dem Sand",
+  "authors": [
+    {
+      "email": "mk837@uni-freiburg.de ",
+      "firstname": "Miriam",
+      "name": "Kempter",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Rohstoffe",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9151/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9151/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9151/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9151/tiles.dzi",
+  "sources": []
+}
