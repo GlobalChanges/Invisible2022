@@ -1,0 +1,42 @@
+{
+  "id": "9169",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "India Linking River Project",
+  "abstract": "India Linking River Project - Von Ueberflutungen und Duerren profitieren - Der Plan einer gleichmaessigen Wasserverteilung in Indien",
+  "authors": [
+    {
+      "email": "dm276@uni-freiburg.de ",
+      "firstname": "Desiree",
+      "name": "Meier",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Indien",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Fluss",
+    "latitude": 21.1,
+    "longitude": 78.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Wasser",
+  "subtopic": "Klimaextreme",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9169/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9169/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9169/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9169/tiles.dzi",
+  "sources": []
+}
