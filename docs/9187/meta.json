@@ -1,0 +1,49 @@
+{
+  "id": "9187",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Problem Mangrove - Gefaehrdung",
+  "abstract": "Problem Mangrove",
+  "authors": [
+    {
+      "email": "jv198@uni-freiburg.de ",
+      "firstname": "Julika",
+      "name": " Valdes Cifuentes",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "ps566@uni-freiburg.de",
+      "firstname": "Paulina",
+      "name": " Stiller",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Küste",
+    "latitude": "-35.5",
+    "longitude": "-145",
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Meeresspiegel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9187/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9187/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9187/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9187/tiles.dzi",
+  "sources": []
+}

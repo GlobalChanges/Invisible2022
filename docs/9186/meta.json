@@ -1,0 +1,49 @@
+{
+  "id": "9186",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Problem Mangrove - Oekosystemleistung",
+  "abstract": "Problem Mangrove",
+  "authors": [
+    {
+      "email": "ps566@uni-freiburg.de",
+      "firstname": "Paulina",
+      "name": " Stiller",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "jv198@uni-freiburg.de ",
+      "firstname": "Julika",
+      "name": " Valdes Cifuentes",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Küste",
+    "latitude": "-34.5",
+    "longitude": "-145",
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Meeresspiegel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9186/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9186/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9186/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9186/tiles.dzi",
+  "sources": []
+}
