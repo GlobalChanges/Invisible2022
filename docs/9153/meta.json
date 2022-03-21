@@ -1,0 +1,42 @@
+{
+  "id": "9153",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Coltanabbau in der demokratischen Republik Kongo",
+  "abstract": "Coltanabbau in der demokratischen Republik Kongo",
+  "authors": [
+    {
+      "email": "nf134@uni-freiburg.de",
+      "firstname": "Niklas",
+      "name": "Fehrenbach",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Kongo",
+    "countries": [],
+    "continent": "Afrika",
+    "landscape": "Regenwald",
+    "latitude": -2.3,
+    "longitude": 22.8,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Gerechtigkeit",
+  "topic": "Rohstoffe",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9153/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9153/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9153/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9153/tiles.dzi",
+  "sources": []
+}
