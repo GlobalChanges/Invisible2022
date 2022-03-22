@@ -1,0 +1,42 @@
+{
+  "id": "9144",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Macht uns die Klimakrise krank?",
+  "abstract": "KLima und Gesundheit - macht uns die Klimakrise krank?",
+  "authors": [
+    {
+      "email": "ja221@uni-freiburg.de",
+      "firstname": "Jonas",
+      "name": "Adam",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Klimawandel",
+  "subtopic": "Gesundheit",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9144/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9144/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9144/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9144/tiles.dzi",
+  "sources": []
+}
