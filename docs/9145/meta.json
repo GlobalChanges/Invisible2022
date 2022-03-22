@@ -1,0 +1,42 @@
+{
+  "id": "9145",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Welchen Einfluss hat der Klimawandel auf unsere Gesundheit?",
+  "abstract": "Welchen Einfluss hat der Klimawandel auf unsere Gesundheit?",
+  "authors": [
+    {
+      "email": "ak977@uni-freiburg.de",
+      "firstname": "Anne",
+      "name": "Kayser",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Klimawandel",
+  "subtopic": "Gesundheit",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9145/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9145/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9145/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9145/tiles.dzi",
+  "sources": []
+}
