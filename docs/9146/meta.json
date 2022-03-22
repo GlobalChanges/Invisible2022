@@ -1,0 +1,42 @@
+{
+  "id": "9146",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Plastic Removal - Helfende Haende fuer eine bessere Umwelt",
+  "abstract": "Plastic Removal - Helfende Haende fuer eine bessere Umwelt",
+  "authors": [
+    {
+      "email": "lg348@uni-freiburg.de",
+      "firstname": "Lara Grafmueller",
+      "name": "",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Meer",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Altlasten",
+  "subtopic": "Stoffkreisläufe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9146/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9146/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9146/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9146/tiles.dzi",
+  "sources": []
+}
