@@ -1,0 +1,42 @@
+{
+  "id": "9143",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Sich den Kapitalismus abgewoehnen?",
+  "abstract": "Der Kapilaismus und die Gemeinwohloekonomie",
+  "authors": [
+    {
+      "email": "ar272@uni-freiburg.de",
+      "firstname": "Anna",
+      "name": "Reiser",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Wirtschaft",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9143/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9143/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9143/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9143/tiles.dzi",
+  "sources": []
+}
