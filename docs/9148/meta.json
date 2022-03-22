@@ -1,0 +1,42 @@
+{
+  "id": "9148",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Die Reise einer Jeans",
+  "abstract": "Die Reise einer Jeans mit dem Schwerpunkt Wasserverbrauch",
+  "authors": [
+    {
+      "email": "ak847@uni-freiburg.de ",
+      "firstname": "Anika",
+      "name": "Holbein",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9148/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9148/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9148/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9148/tiles.dzi",
+  "sources": []
+}
