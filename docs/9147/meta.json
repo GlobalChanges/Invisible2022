@@ -1,0 +1,42 @@
+{
+  "id": "9147",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Wasserkrise auf Bali",
+  "abstract": "Wasserkrise auf Bali - Welche Interessen, Praktiken und Schwachstellen liegen der balinesischen Wasserkrise zugrunde, welche Folgen bringt diese mit sich und welche Lösungsansätze gibt es?",
+  "authors": [
+    {
+      "email": "pk339@uni-freiburg.de",
+      "firstname": "Pernilla",
+      "name": "Kober",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Indonesien",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Agrar",
+    "latitude": -2,
+    "longitude": 118,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Wasser",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9147/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9147/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9147/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9147/tiles.dzi",
+  "sources": []
+}
