@@ -1,0 +1,42 @@
+{
+  "id": "9154",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Wie Digitalisierung den Städtetourismus verändert",
+  "abstract": "Im Juli 2021 veröffentlichte die UNWTO (Tourismus Weltorganisation) im Rahmen des dritten weltweiten Bürgermeisterforums die Porto Erklärung zum “Städtetourismus der Zukunft“. Die Digitalisierung wurde für Städte als eine der wichtigsten Lösungen präsentiert, um sich den neuen Bedürfnissen der Touristen anzupassen und die Tourismusbranche\nwiderstandsfähiger gegenüber künftigen Krisen zu machen. Dadurch sind auch in den nächsten Jahren tiefgreifende Transformationen im Städtetourismus zu erwarten, die heute schon in der städtischen Landschaft und in den touristischen Praktiken sichtbar sind. Wie verändert das wachsende Phänomen der Digitalisierung den Städtetourismus? Welche Herausforderungen",
+  "authors": [
+    {
+      "email": "nh343@uni-freiburg.de",
+      "firstname": "Nadia",
+      "name": "Helmbold",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Wirtschaft",
+  "subtopic": "Bildung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9154/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9154/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9154/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9154/tiles.dzi",
+  "sources": []
+}
