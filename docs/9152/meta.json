@@ -1,0 +1,42 @@
+{
+  "id": "9152",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Die ökologischen Folgen des Sandabbaus",
+  "abstract": "Sand ist nach Wasser der am zweithäufigsten geförderte Rohstoff weltweit und für die verschiedenste Industrien essentiell. Nach Schätzungen des UN-Umweltprogramm werden jährlich ca. 40-50 Mrd. Tonnen Sand produziert (Stand 2019). Dies entspricht etwa der doppelten Sedimentfracht aller Flüsse der Erde.1 Da sich Wüstensand auf Grund seiner Körnung nicht für die Nutzung im Bausektor eignet, wird für die Herstellung von Zement vor allem Sand aus Flussbetten oder Sandgruben gewonnen. Um der immensen Nachfrage gerecht zu werden, wird mittlerweile immer mehr Sand aus entlegeneren Regionen genutzt und auch aus dem Meer gewonnen.",
+  "authors": [
+    {
+      "email": "pk341@uni-freiburg.de",
+      "firstname": "Philipp",
+      "name": "Kleiner",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Fluss",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Rohstoffe",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9152/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9152/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9152/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9152/tiles.dzi",
+  "sources": []
+}
