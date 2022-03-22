@@ -1,0 +1,42 @@
+{
+  "id": "9142",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Bei ROT akute Steinschlaggefahr (?)",
+  "abstract": "Alpine Naturgefahren im Kontext des Klimawandels",
+  "authors": [
+    {
+      "email": "mb804@uni-freiburg.de",
+      "firstname": "Markus",
+      "name": "Bucher",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Schweiz",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Gebirge",
+    "latitude": 46.5,
+    "longitude": 8.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Katastrophe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9142/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9142/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9142/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9142/tiles.dzi",
+  "sources": []
+}
