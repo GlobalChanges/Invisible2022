@@ -1,0 +1,42 @@
+{
+  "id": "9149",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Die Folgen des KLimawandels in Mitteleuropa",
+  "abstract": "Die Folgen des KLimawandels in Mitteleuropa: Wechselwirkungsprozesse zwischen Land, Meer und Gebirge - Der Mensch als Ursache für den Klimawandel und die daraus entstehenden Folgen",
+  "authors": [
+    {
+      "email": "jg480@uni-freiburg.de",
+      "firstname": "Joshua",
+      "name": "Guenther",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9149/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9149/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9149/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9149/tiles.dzi",
+  "sources": []
+}
