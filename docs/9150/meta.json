@@ -1,0 +1,42 @@
+{
+  "id": "9150",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Geht der Ostsee die Luft aus?",
+  "abstract": "Geht der Ostsee die Luft aus? Sauerstoffarme Zonen bedrohen die Meereswelt",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Manuel",
+      "name": "Saroos",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": ["Dänemark","Russland","Estland","Deutschland","Finnland","Lettland","Litauen","Polen","Schweden"],
+    "continent": "Atlantik",
+    "landscape": "Meer",
+    "latitude": 59,
+    "longitude": 21,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Biodiversität",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9150/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9150/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9150/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9150/tiles.dzi",
+  "sources": []
+}
