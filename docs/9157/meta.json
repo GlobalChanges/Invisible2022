@@ -1,0 +1,42 @@
+{
+  "id": "9157",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Afrikas Gruenes Mosaik",
+  "abstract": "Afrikas Gruenes Mosaik",
+  "authors": [
+    {
+      "email": "ll220@uni-freiburg.de",
+      "firstname": "Lena",
+      "name": "Laengle",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Afrika",
+    "landscape": "Trockengebiet",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Landnutzung",
+  "subtopic": "Desertifikation",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9157/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9157/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9157/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9157/tiles.dzi",
+  "sources": []
+}
