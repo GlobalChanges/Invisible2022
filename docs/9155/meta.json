@@ -1,0 +1,42 @@
+{
+  "id": "9155",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "CITIES - inclusive, safe, resilient, sustainable",
+  "abstract": "CITIES - inclusive, safe, resilient, sustainable",
+  "authors": [
+    {
+      "email": "he1015@uni-freiburg.de",
+      "firstname": "Hannah",
+      "name": "Esselborn",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 50.7,
+    "longitude": 10.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Urbanisierung",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9155/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9155/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9155/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9155/tiles.dzi",
+  "sources": []
+}
