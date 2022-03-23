@@ -5,8 +5,8 @@
   "doi": "",
   "language": "de",
   "orientation": "landscape",
-  "title": "Afrikas Gruenes Mosaik",
-  "abstract": "Afrikas Gruenes Mosaik",
+  "title": "Afrikas Grünes Mosaik",
+  "abstract": "Afrikas Grünes Mosaik",
   "authors": [
     {
       "email": "ll220@uni-freiburg.de",
@@ -17,12 +17,12 @@
     }
   ],
   "location": {
-    "country": "None",
-    "countries": [],
+    "country": null,
+    "countries": ["Senegal","Mauretanien","Burkina Faso","Mali","Niger","Nigeria","Chad","Sudan","Eritrea","Äthopien","Dschibuti"],
     "continent": "Afrika",
     "landscape": "Trockengebiet",
-    "latitude": -35,
-    "longitude": -145,
+    "latitude": 10.0,
+    "longitude": 32.6,
     "city": "",
     "region": ""
   },
