@@ -1,0 +1,42 @@
+{
+  "id": "9156",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Forests in International Climate Politics",
+  "abstract": "Forests in International Climate Politics",
+  "authors": [
+    {
+      "email": "os101@uni-freiburg.de",
+      "firstname": "Otto",
+      "name": "Schlund",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35,
+    "longitude": -145,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Landnutzung",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9156/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9156/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9156/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9156/tiles.dzi",
+  "sources": []
+}
