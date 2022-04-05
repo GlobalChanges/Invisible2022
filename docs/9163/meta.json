@@ -1,0 +1,42 @@
+{
+  "id": "9163",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Nachhaltiger Stadtumbau und Stadterneuerung",
+  "abstract": "Nachhaltiger Stadtumbau und Stadterneuerung",
+  "authors": [
+    {
+      "email": "cv94@uni-freiburg.de",
+      "firstname": "Charlotte",
+      "name": "Vogel",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35.1,
+    "longitude": -145.6,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Landnutzung",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9163/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9163/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9163/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9163/tiles.dzi",
+  "sources": []
+}
