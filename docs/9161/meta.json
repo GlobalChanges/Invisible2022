@@ -1,0 +1,42 @@
+{
+  "id": "9161",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Wie kann die Ernaehrung der deutschen Bevoelkerung gesichert werden?",
+  "abstract": "Wie kann die Ernaehrung der deutschen Bevoelkerung gesichert werden?",
+  "authors": [
+    {
+      "email": "sk724@uni-freiburg.de ",
+      "firstname": "Sarah",
+      "name": "Kiefer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Agrar",
+    "latitude": 52.4,
+    "longitude": 11.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Ernährung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9161/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9161/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9161/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9161/tiles.dzi",
+  "sources": []
+}
