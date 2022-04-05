@@ -1,0 +1,42 @@
+{
+  "id": "9159",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Aquakultur",
+  "abstract": "Aquakultur",
+  "authors": [
+    {
+      "email": "bk209@uni-freiburg.de ",
+      "firstname": "Benoit",
+      "name": "Kirchen",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Feuchtgebiet",
+    "latitude": -35.5,
+    "longitude": -145.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Ernährung",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9159/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9159/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9159/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9159/tiles.dzi",
+  "sources": []
+}
