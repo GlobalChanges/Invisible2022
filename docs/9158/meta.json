@@ -1,0 +1,42 @@
+{
+  "id": "9158",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Keine Gewinne um der Gewinne Willen",
+  "abstract": "Keine Gewinne um der Gewinne Willen - Gemeinwohloekonomie als transformativer Ansatz",
+  "authors": [
+    {
+      "email": "mm804@uni-freiburg.de ",
+      "firstname": "Mattis",
+      "name": "Mann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": "-35.12",
+    "longitude": "-145.32",
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Wirtschaft",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9158/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9158/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9158/icon.png",
+  "tiles": null,
+  "sources": []
+}
