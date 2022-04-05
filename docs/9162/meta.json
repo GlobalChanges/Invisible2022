@@ -1,0 +1,42 @@
+{
+  "id": "9162",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Erosion in den Olivenhainen Cordobas",
+  "abstract": "Bodendegration in Spanien:  Erosion in den Olivenhainen Cordobas",
+  "authors": [
+    {
+      "email": "rb317@uni-freiburg.de",
+      "firstname": "Rosa",
+      "name": "Bruch",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Spanien",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Agrar",
+    "latitude": 37.9,
+    "longitude": -4.8,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Ernährung",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9162/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9162/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9162/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9162/tiles.dzi",
+  "sources": []
+}
