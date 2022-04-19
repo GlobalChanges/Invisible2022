@@ -1,0 +1,42 @@
+{
+  "id": "9164",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Coral Reefs in Crisis",
+  "abstract": "Coral Reefs in Crisis - Causes, Consequences and Solutions",
+  "authors": [
+    {
+      "email": "er124@uni-freiburg.de ",
+      "firstname": "Elisabeth",
+      "name": "Reichle",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Meer",
+    "latitude": 0.8,
+    "longitude": 135.5,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Biodiversität",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9164/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9164/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9164/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9164/tiles.dzi",
+  "sources": []
+}
