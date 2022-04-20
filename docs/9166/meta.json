@@ -1,0 +1,42 @@
+{
+  "id": "9166",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Dreht der Klimawandel Deutschland bald das Wasser ab?",
+  "abstract": "Dreht der Klimawandel Deutschland bald das Wasser ab?",
+  "authors": [
+    {
+      "email": "na135@uni-freiburg.de ",
+      "firstname": "Nedhir",
+      "name": "Alaimi",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Fluss",
+    "latitude": 52.7,
+    "longitude": 10.7,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Klimawandel",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9166/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9166/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9166/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9166/tiles.dzi",
+  "sources": []
+}
