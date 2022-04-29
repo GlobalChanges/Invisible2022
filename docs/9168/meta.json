@@ -1,0 +1,42 @@
+{
+  "id": "9168",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Illegalisierte Migrant:innen in den USA",
+  "abstract": "Illegalisierte Migrant:innen in den USA",
+  "authors": [
+    {
+      "email": "cp268@uni-freiburg.de ",
+      "firstname": "Clarice",
+      "name": "Portilho",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": 44,
+    "longitude": -104,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9168/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9168/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9168/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9168/tiles.dzi"
+  "sources": []
+}
