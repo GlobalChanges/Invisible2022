@@ -24,7 +24,7 @@
     }
   ],
   "location": {
-    "country": "None",
+    "country": null,
     "countries": [],
     "continent": "Welt",
     "landscape": "Küste",

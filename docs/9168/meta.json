@@ -17,9 +17,9 @@
     }
   ],
   "location": {
-    "country": "None",
+    "country": "USA",
     "countries": [],
-    "continent": "Welt",
+    "continent": "Nordamerika",
     "landscape": "Großstadt",
     "latitude": 44,
     "longitude": -104,
@@ -27,8 +27,8 @@
     "region": ""
   },
   "concept": "Diskursanalyse",
-  "topic": "Klimawandel",
-  "subtopic": "Erwärmung",
+  "topic": "Migration",
+  "subtopic": "Politik",
   "period": {
     "begin": 1950,
     "end": 2022

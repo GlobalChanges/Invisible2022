@@ -24,7 +24,7 @@
     }
   ],
   "location": {
-    "country": "None",
+    "country": null,
     "countries": ["Österreich","Deutschland","Schweiz"],
     "continent": "Europa",
     "landscape": "Gebirge",
