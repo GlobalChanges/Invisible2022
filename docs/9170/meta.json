@@ -1,0 +1,42 @@
+{
+  "id": "9170",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Urban Citizenship: New York City ID",
+  "abstract": "Urban Citizenship: New York City ID",
+  "authors": [
+    {
+      "email": "bl131@uni-freiburg.de",
+      "firstname": "Benita",
+      "name": "Lohbauer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "USA",
+    "countries": [],
+    "continent": "Nordamerika",
+    "landscape": "Großstadt",
+    "latitude": 41,
+    "longitude": -71,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Migration",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9170/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9170/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9170/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9170/tiles.dzi",
+  "sources": []
+}
