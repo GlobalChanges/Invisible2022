@@ -1,0 +1,42 @@
+{
+  "id": "9172",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Genderungleichheiten der toedlichsten Grenze der Welt",
+  "abstract": "Genderungleichheiten der toedlichsten Grenze der Welt - Welche Auswirkungen haben geschlechtsspezifische Ungleichheiten fuer Frauen auf der Flucht ueber das Mittelmeer?",
+  "authors": [
+    {
+      "email": "pk344@uni-freiburg.de ",
+      "firstname": "Pauline",
+      "name": "Kratzat",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Mediterran",
+    "latitude": 11,
+    "longitude": 38.4,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Gerechtigkeit",
+  "topic": "Migration",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9172/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9172/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9172/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9172/tiles.dzi",
+  "sources": []
+}
