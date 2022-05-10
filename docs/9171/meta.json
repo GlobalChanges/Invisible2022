@@ -1,0 +1,42 @@
+{
+  "id": "9171",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Gesichter der Wasserkrise in Spanien",
+  "abstract": "Gesichter der Wasserkrise in Spanien",
+  "authors": [
+    {
+      "email": "jc154@uni-freiburg.de ",
+      "firstname": "Johannes",
+      "name": "Conrad",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Spanien",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Agrar",
+    "latitude": 38,
+    "longitude": -1.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/InvisibleData2022/9171/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/InvisibleData2022/9171/thumbnail.png",
+  "icon": "https://globalchanges.github.io/InvisibleData2022/9171/icon.png",
+  "tiles": "https://globalchanges.github.io/InvisibleData2022/9171/tiles.dzi",
+  "sources": []
+}
