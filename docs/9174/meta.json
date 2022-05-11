@@ -1,0 +1,42 @@
+{
+  "id": "9174",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Beyond Global and World Cities",
+  "abstract": "Beyond Global and World Cities",
+  "authors": [
+    {
+      "email": "ls1300@uni-freiburg.de",
+      "firstname": "Lea",
+      "name": "Schneller",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Afrika",
+    "landscape": "Großstadt",
+    "latitude": 6.3,
+    "longitude": 20.6,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Bevölkerungswachstum",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9174/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9174/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9174/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9174/tiles.dzi",
+  "sources": []
+}
