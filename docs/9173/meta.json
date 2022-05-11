@@ -1,0 +1,42 @@
+{
+  "id": "9173",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "landscape",
+  "title": "Challenging REDD+",
+  "abstract": "Challenging REDD+ - a call for Justice",
+  "authors": [
+    {
+      "email": "dk422@uni-freiburg.de",
+      "firstname": "Dagmar",
+      "name": "Kohlmeier",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Wald",
+    "latitude": -34.7,
+    "longitude": -145.7,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Biodiversität",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9173/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9173/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9173/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9173/tiles.dzi",
+  "sources": []
+}
