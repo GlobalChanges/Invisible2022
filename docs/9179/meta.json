@@ -1,0 +1,42 @@
+{
+  "id": "9179",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Symbolische Grenzziehungspraktiken zwischen dem Kosovo und Serbien",
+  "abstract": "Symbolische Grenzziehungspraktiken zwischen dem Kosovo und Serbien",
+  "authors": [
+    {
+      "email": "cj126@uni-freiburg.de",
+      "firstname": "Christoph",
+      "name": "Jochem",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Kosovo","Serbien"],
+    "continent": "Europa",
+    "landscape": "Mediterran",
+    "latitude": 42.3,
+    "longitude": 22,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Politik",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9179/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9179/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9179/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9179/tiles.dzi",
+  "sources": []
+}
