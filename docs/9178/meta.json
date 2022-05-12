@@ -1,0 +1,42 @@
+{
+  "id": "9178",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Die Problematik der Netzgehegeanlagen",
+  "abstract": "Die Problematik der Netzgehegeanlagen am Beisppiel von Escapees (entwichener Fische)",
+  "authors": [
+    {
+      "email": "ts559@uni-freiburg.de",
+      "firstname": "Timm",
+      "name": "Stöckle",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Norwegen",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Meer",
+    "latitude": 62.3,
+    "longitude": 4.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Ernährung",
+  "subtopic": "Klimaextreme",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9178/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9178/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9178/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9178/tiles.dzi",
+  "sources": []
+}
