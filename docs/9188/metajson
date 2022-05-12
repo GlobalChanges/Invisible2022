@@ -1,0 +1,42 @@
+{
+  "id": "9188",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Der sibirische Permafrost - eine tickende Zeitbombe?",
+  "abstract": "Der sibirische Permafrost - eine tickende Zeitbombe?",
+  "authors": [
+    {
+      "email": "sd308@uni-freiburg.de",
+      "firstname": "Sarah",
+      "name": "Dräger",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Russland",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Großstadt",
+    "latitude": 72.8,
+    "longitude": 88.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Tipping Points",
+  "topic": "Planetare Grenzen",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9188/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9188/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9188/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9188/tiles.dzi",
+  "sources": []
+}
