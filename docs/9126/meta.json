@@ -1,0 +1,42 @@
+{
+  "id": "9126",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Klimaresiliente Stadtplanung",
+  "abstract": "Klimaresiliente Stadtplanung",
+  "authors": [
+    {
+      "email": "mj148@uni-freiburg.de",
+      "firstname": "Maria",
+      "name": "Jäkel",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 50.5,
+    "longitude": 7,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Erwärmung",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9126/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9126/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9126/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9126/tiles.dzi",
+  "sources": []
+}
