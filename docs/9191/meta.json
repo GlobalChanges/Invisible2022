@@ -1,0 +1,42 @@
+{
+  "id": "9191",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Buen Vivir - Renaissance indigenen Denkens?",
+  "abstract": "Buen Vivir - Renaissance indigenen Denkens?",
+  "authors": [
+    {
+      "email": "jp394@uni-freiburg.de",
+      "firstname": "Jonas",
+      "name": "Pauthner",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Bolivien","Ecuador"],
+    "continent": "Südamerika",
+    "landscape": "Regenwald",
+    "latitude": -7.3,
+    "longitude": -70.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Indigene Völker",
+  "subtopic": "Bildung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9191/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9191/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9191/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9191/tiles.dzi",
+  "sources": []
+}
