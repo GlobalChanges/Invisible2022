@@ -1,0 +1,42 @@
+{
+  "id": "9180",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Urban City Card Bern",
+  "abstract": "Urban City Card Bern - eine staedtische Identitaetskarte fuer alle Stadtbewohner*innen?",
+  "authors": [
+    {
+      "email": "me270@uni-freiburg.de",
+      "firstname": "Moritz",
+      "name": "Erne",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Schweiz",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 46.9,
+    "longitude": 7.4,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Migration",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9180/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9180/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9180/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9180/tiles.dzi",
+  "sources": []
+}
