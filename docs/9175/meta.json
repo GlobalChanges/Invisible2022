@@ -1,0 +1,42 @@
+{
+  "id": "9175",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Solar-Geoengineering: Wundermittel oder reine Symptombekaempfung?",
+  "abstract": "Solar-Geoengineering: Wundermittel oder reine Symptombekaempfung?",
+  "authors": [
+    {
+      "email": "lf355@uni-freiburg.de ",
+      "firstname": "Leonie",
+      "name": "Frick",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -34.8,
+    "longitude": -145.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9175/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9175/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9175/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9175/tiles.dzi",
+  "sources": []
+}
