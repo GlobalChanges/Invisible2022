@@ -1,0 +1,42 @@
+{
+  "id": "9182",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Wenn der Permafrost schmilzt...",
+  "abstract": "Wenn der Permafrost schmilzt...",
+  "authors": [
+    {
+      "email": "sm504@uni-freiburg.de",
+      "firstname": "Solveig",
+      "name": "Müller",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Russland","USA","Kanada","Grönland","Spitzbergen","Norwegen"],
+    "continent": "Arktis",
+    "landscape": "Polarregion",
+    "latitude": 75,
+    "longitude": -50.7,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Meeresspiegel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9182/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9182/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9182/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9182/tiles.dzi",
+  "sources": []
+}
