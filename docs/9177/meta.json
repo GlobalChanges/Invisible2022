@@ -1,0 +1,42 @@
+{
+  "id": "9177",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Das Glyphosat-Problem",
+  "abstract": "Das Glyphosat-Problem: Ein Schritt-fuer-Schritt-Ueberblick: Welche oekologischen Auswirkungen hat das 'Wundermittel' Glyphosat?",
+  "authors": [
+    {
+      "email": "fs608@uni-freiburg.de",
+      "firstname": "Felix",
+      "name": "Steiger",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -34.9,
+    "longitude": -145.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Ernährung",
+  "subtopic": "Landwirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9177/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9177/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9177/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9177/tiles.dzi",
+  "sources": []
+}
