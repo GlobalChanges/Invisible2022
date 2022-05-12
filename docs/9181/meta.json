@@ -1,0 +1,42 @@
+{
+  "id": "9181",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "The sinking city: Jakarta",
+  "abstract": "The sinking city: Jakarta",
+  "authors": [
+    {
+      "email": "hb280@uni-freiburg.de",
+      "firstname": "Helen",
+      "name": "Borchhardt",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Indonesien",
+    "countries": [],
+    "continent": "Asien",
+    "landscape": "Großstadt",
+    "latitude": -6.2,
+    "longitude": 106.8,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Urbanisierung",
+  "subtopic": "Katastrophe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9181/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9181/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9181/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9181/tiles.dzi",
+  "sources": []
+}
