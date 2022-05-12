@@ -1,0 +1,42 @@
+{
+  "id": "9184",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Klimawandelanpassung als kommunale Querschnittsaufgabe",
+  "abstract": "Klimawandelanpassung als kommunale Querschnittsaufgabe",
+  "authors": [
+    {
+      "email": "ms954@uni-freiburg.de",
+      "firstname": "Mona",
+      "name": "Stammer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 52.2,
+    "longitude": 10.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9184/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9184/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9184/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9184/tiles.dzi",
+  "sources": []
+}
