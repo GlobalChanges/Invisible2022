@@ -1,0 +1,42 @@
+{
+  "id": "9192",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Neoliberalisierung von Mensch und Natur",
+  "abstract": "Neoliberalisierung von Mensch und Natur",
+  "authors": [
+    {
+      "email": "ks377@uni-freiburg.de",
+      "firstname": "Kirsten",
+      "name": "Stuckenhoff",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Brasilien",
+    "countries": [],
+    "continent": "Südamerika",
+    "landscape": "Wald",
+    "latitude": -11.2,
+    "longitude": -63,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9192/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9192/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9192/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9192/tiles.dzi",
+  "sources": []
+}
