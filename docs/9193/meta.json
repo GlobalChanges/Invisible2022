@@ -1,0 +1,42 @@
+{
+  "id": "9193",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Wasserprobleme in Spanien - der Kampf um das blaue Gold ",
+  "abstract": "Wasserprobleme in Spanien - der Kampf um das blaue Gold und wie es dazu kam",
+  "authors": [
+    {
+      "email": "tl130@uni-freiburg.de",
+      "firstname": "Teresa",
+      "name": "Landwehr",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Spanien",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Agrar",
+    "latitude": 38.5,
+    "longitude": -3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Landwirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9193/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9193/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9193/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9193/tiles.dzi",
+  "sources": []
+}
