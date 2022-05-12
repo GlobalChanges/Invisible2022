@@ -1,0 +1,42 @@
+{
+  "id": "9124",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "The great green wall",
+  "abstract": "The great green wall",
+  "authors": [
+    {
+      "email": "fr295@uni-freiburg.de",
+      "firstname": "Fatima",
+      "name": "Röseler",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Mauretanien","Mali","Burkina-Faso","Niger","Nigeria","Tschad","Senegal","Sudan","Eritrea","Äthiopien","Dschibuti"],
+    "continent": "Afrika",
+    "landscape": "Trockengebiet",
+    "latitude": 19.8,
+    "longitude": 23.8,
+    "city": "",
+    "region": "Sahel"
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Desertifikation",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9124/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9124/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9124/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9124/tiles.dzi",
+  "sources": []
+}
