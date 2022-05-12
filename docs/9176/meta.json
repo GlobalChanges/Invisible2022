@@ -1,0 +1,42 @@
+{
+  "id": "9176",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "(K)ein Platz fuer Touristen?",
+  "abstract": "(K)ein Platz fuer Touristen?",
+  "authors": [
+    {
+      "email": "pk271@uni-freiburg.de",
+      "firstname": "Pius",
+      "name": "Korff",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -35.3,
+    "longitude": -144.8,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Tourismus",
+  "subtopic": "Wirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9176/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9176/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9176/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9176/tiles.dzi",
+  "sources": []
+}
