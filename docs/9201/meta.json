@@ -1,0 +1,42 @@
+{
+  "id": "9201",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Freiburgs Kampf dem Klimawandel",
+  "abstract": "Freiburgs Kampf dem Klimawandel",
+  "authors": [
+    {
+      "email": "af416@uni-freiburg.de",
+      "firstname": "Amelie",
+      "name": "Fischer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 47.9,
+    "longitude": 7.8,
+    "city": "Freiburg",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Urbanisierung",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9201/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9201/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9201/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9201/tiles.dzi",
+  "sources": []
+}
