@@ -1,0 +1,42 @@
+{
+  "id": "9195",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Aqua Culture",
+  "abstract": "The social construction of aquatic habitats - a poststructuralistic perspective on spatial relations in fish cages",
+  "authors": [
+    {
+      "email": "ss1429@uni-freiburg.de",
+      "firstname": "Silja",
+      "name": "Siller",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Meer",
+    "latitude": -35.8,
+    "longitude": -144.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Ernährung",
+  "subtopic": "Gesundheit",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9195/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9195/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9195/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9195/tiles.dzi",
+  "sources": []
+}
