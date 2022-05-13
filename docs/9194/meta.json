@@ -1,0 +1,42 @@
+{
+  "id": "9194",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Sandabbau am Beispiel Suedostasiens",
+  "abstract": "Sandabbau am Beispiel Suedostasiens",
+  "authors": [
+    {
+      "email": "or26@uni-freiburg.de",
+      "firstname": "Oliver",
+      "name": "Rombach",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Singapur","Indonesien","Kambodscha","Malaysia","Vietnam"],
+    "continent": "Asien",
+    "landscape": "Großstadt",
+    "latitude": 16.9,
+    "longitude": 115,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Ressourcen",
+  "subtopic": "Rohstoffe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9194/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9194/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9194/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9194/tiles.dzi",
+  "sources": []
+}
