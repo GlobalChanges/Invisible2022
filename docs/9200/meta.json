@@ -1,0 +1,49 @@
+{
+  "id": "6200",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Ende der Hungersnot?",
+  "abstract": "Ende der Hungersnot? Der Klimawandel als Risikofaktor fuer die Lebensmittelversorgung",
+  "authors": [
+    {
+      "email": "yb65@uni-freiburg.de",
+      "firstname": "Yannick",
+      "name": "Bertrand",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "fr295@uni-freiburg.de",
+      "firstname": "Fatima",
+      "name": "Röseler",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -34.7,
+    "longitude": -145.8,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Klimawandel",
+  "subtopic": "Ernährung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/6200/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/6200/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/6200/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/6200/tiles.dzi",
+  "sources": []
+}
