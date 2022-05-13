@@ -18,7 +18,7 @@
   ],
   "location": {
     "country": null,
-    "countries": ["Senegal","Mauretanien","Burkina Faso","Mali","Niger","Nigeria","Chad","Sudan","Eritrea","Äthopien","Dschibuti"],
+    "countries": ["Senegal","Mauretanien","Burkina-Faso","Mali","Niger","Nigeria","Tschad","Sudan","Eritrea","Äthiopien","Dschibuti"],
     "continent": "Afrika",
     "landscape": "Trockengebiet",
     "latitude": 10.0,
