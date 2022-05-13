@@ -1,0 +1,42 @@
+{
+  "id": "9199",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Globale Wasserkrise: Geht uns irgendwann das Wasser aus?",
+  "abstract": "Globale Wasserkrise: Geht uns irgendwann das Wasser aus?",
+  "authors": [
+    {
+      "email": "jb391@uni-freiburg.de",
+      "firstname": "Jessica Melanie",
+      "name": "Bieser",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Fluss",
+    "latitude": -34.2,
+    "longitude": -145.7,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wasser",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9199/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9199/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9199/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9199/tiles.dzi",
+  "sources": []
+}
