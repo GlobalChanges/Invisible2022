@@ -1,0 +1,42 @@
+{
+  "id": "9198",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "(New) Urban Tourism in Hamburg",
+  "abstract": "(New) Urban Tourism in Hamburg",
+  "authors": [
+    {
+      "email": "lk461@uni-freiburg.de",
+      "firstname": "Lara",
+      "name": "Koppelmann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 53.5,
+    "longitude": 10.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Urbanisierung",
+  "subtopic": "Tourismus",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9198/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9198/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9198/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9198/tiles.dzi",
+  "sources": []
+}
