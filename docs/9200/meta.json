@@ -1,5 +1,5 @@
 {
-  "id": "6200",
+  "id": "9200",
   "year": "2022",
   "freidok": "",
   "doi": "",
@@ -41,9 +41,9 @@
     "end": 2022
   },
   "keywords": [],
-  "pdf": "https://globalchanges.github.io/Invisible2022/6200/poster.pdf",
-  "thumbnail": "https://globalchanges.github.io/Invisible2022/6200/thumbnail.png",
-  "icon": "https://globalchanges.github.io/Invisible2022/6200/icon.png",
-  "tiles": "https://globalchanges.github.io/Invisible2022/6200/tiles.dzi",
+  "pdf": "https://globalchanges.github.io/Invisible2022/9200/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9200/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9200/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9200/tiles.dzi",
   "sources": []
 }
