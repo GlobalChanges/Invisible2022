@@ -1,0 +1,42 @@
+{
+  "id": "9196",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "en",
+  "orientation": "portrait",
+  "title": "Der Diskurs um das Anthropozaen",
+  "abstract": "Der Diskurs um das Anthropozaen",
+  "authors": [
+    {
+      "email": "jt138@uni-freiburg.de",
+      "firstname": "Judith",
+      "name": "Titz",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -35.7,
+    "longitude": -144.9,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Verschmutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9196/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9196/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9196/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9196/tiles.dzi",
+  "sources": []
+}
