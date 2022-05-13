@@ -1,0 +1,42 @@
+{
+  "id": "9197",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Zufluchtsstadt Palermo",
+  "abstract": "Zufluchtsstadt Palermo",
+  "authors": [
+    {
+      "email": "dr229@uni-freiburg.de",
+      "firstname": "Dennis",
+      "name": "Rappich",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Italien",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 38.1,
+    "longitude": 13.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Migration",
+  "subtopic": "Tourismus",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9197/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9197/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9197/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9197/tiles.dzi",
+  "sources": []
+}
