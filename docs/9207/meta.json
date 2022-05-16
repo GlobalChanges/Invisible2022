@@ -1,0 +1,42 @@
+{
+  "id": "9207",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Schnee von gestern?",
+  "abstract": "Schnee von gestern? Snowfarming als Klimaanpassungsmassnahme im Wintersporttourismus",
+  "authors": [
+    {
+      "email": "cs912@uni-freiburg.de",
+      "firstname": "Clara",
+      "name": "Schlomann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Österreich",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Gebirge",
+    "latitude": 47.5,
+    "longitude": 12.4,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Tourismus",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9207/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9207/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9207/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9207/tiles.dzi",
+  "sources": []
+}
