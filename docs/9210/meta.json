@@ -1,0 +1,42 @@
+{
+  "id": "9210",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Die Soja-Dualitaet",
+  "abstract": "Die Soja-Dualitaet",
+  "authors": [
+    {
+      "email": "ak896@uni-freiburg.de",
+      "firstname": "Alexander",
+      "name": "Kolb",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Deutschland","Brasilien"],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -34.2,
+    "longitude": -145.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Ernährung",
+  "subtopic": "Landwirtschaft",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9210/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9210/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9210/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9210/tiles.dzi",
+  "sources": []
+}
