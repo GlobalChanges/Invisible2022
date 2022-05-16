@@ -1,0 +1,42 @@
+{
+  "id": "9215",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Menue: Entomophagie - Bon Appetit!",
+  "abstract": "Im folgenden wird Entomophagie mit dem Verzehr herkoemmlicher Nutztiere anhand unterschiedlicher Aspekte, die Nachhaltigkeit betreffend, verglichen.",
+  "authors": [
+    {
+      "email": "hk170@uni-freiburg.de",
+      "firstname": "Helen",
+      "name": "Klöpfer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -34.7,
+    "longitude": -145.9,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Ernährung",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9215/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9215/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9215/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9215/tiles.dzi",
+  "sources": []
+}
