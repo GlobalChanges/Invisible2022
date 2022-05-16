@@ -1,0 +1,42 @@
+{
+  "id": "9205",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Der Klimawandel: mensch- oder naturgemacht",
+  "abstract": "Der Klimawandel: mensch- oder naturgemacht",
+  "authors": [
+    {
+      "email": "hk170@uni-freiburg.de",
+      "firstname": "Helen",
+      "name": "Klöpfer",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -34.9,
+    "longitude": -145.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9205/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9205/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9205/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9205/tiles.dzi",
+  "sources": []
+}
