@@ -24,7 +24,7 @@
     }
   ],
   "location": {
-    "country": "None",
+    "country": null,
     "countries": ["Ghana","Elfenbeinküste"],
     "continent": "Afrika",
     "landscape": "Agrar",

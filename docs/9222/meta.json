@@ -1,0 +1,49 @@
+{
+  "id": "9222",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Augen auf beim Schokokauf!",
+  "abstract": "Schokolade geniessen ohne schlechtes Gewissen?",
+  "authors": [
+    {
+      "email": "kd151@uni-freiburg.de",
+      "firstname": "Kaya",
+      "name": "Dünzen",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "mn246@uni-freiburg.de",
+      "firstname": "Melanie",
+      "name": "Nosbüsch",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Ghana","Nicaragua","Deutschland"],
+    "continent": "Afrika",
+    "landscape": "Agrar",
+    "latitude": 6.9,
+    "longitude": -3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Ernährung",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9222/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9222/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9222/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9222/tiles.dzi",
+  "sources": []
+}
