@@ -1,0 +1,42 @@
+{
+  "id": "9216",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Lebenszyklusanalyse von c-Si-Photovoltaikanlagen",
+  "abstract": "Lebenszyklusanalyse von c-Si-Photovoltaikanlagen",
+  "authors": [
+    {
+      "email": "fh230@uni-freiburg.de",
+      "firstname": "Fritz",
+      "name": "Haider",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 51.8,
+    "longitude": 9.5,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Energie",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9216/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9216/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9216/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9216/tiles.dzi",
+  "sources": []
+}
