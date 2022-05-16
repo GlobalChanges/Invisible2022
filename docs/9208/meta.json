@@ -1,0 +1,42 @@
+{
+  "id": "9208",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Meilensteine der Klimaforschung",
+  "abstract": "Meilensteine der Klimaforschung - In wie weit kann Institutionalisierung zum Klimaschutz beitragen?",
+  "authors": [
+    {
+      "email": "lq10@uni-freiburg.de",
+      "firstname": "Laura",
+      "name": "Quast",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -34.7,
+    "longitude": -145.1,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9208/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9208/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9208/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9208/tiles.dzi",
+  "sources": []
+}
