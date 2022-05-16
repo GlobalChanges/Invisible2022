@@ -1,0 +1,49 @@
+{
+  "id": "9203",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Von der Sturmflut zum Hochwasserkonzept",
+  "abstract": "Von der Sturmflut zum Hochwasserkonzept",
+  "authors": [
+    {
+      "email": "df177@uni-freiburg.de",
+      "firstname": "Dennis",
+      "name": "Freese",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "pm262@uni-freiburg.de",
+      "firstname": "Paul",
+      "name": "Margies",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 53.55,
+    "longitude": 9.81,
+    "city": "Hamburg",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Meeresspiegel",
+  "subtopic": "Hochwasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9203/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9203/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9203/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9203/tiles.dzi",
+  "sources": []
+}
