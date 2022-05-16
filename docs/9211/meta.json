@@ -1,0 +1,49 @@
+{
+  "id": "9211",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Klimawandelmitigation und -adaption am Beispiel Dietenbach",
+  "abstract": "Klimawandelmitigation und -adaption am Beispiel Dietenbach - Ein gelungenes Konzept?",
+  "authors": [
+    {
+      "email": "pm262@uni-freiburg.de",
+      "firstname": "Paul",
+      "name": "Margies",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "df177@uni-freiburg.de",
+      "firstname": "Dennis",
+      "name": "Freese",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 48,
+    "longitude": 7.8,
+    "city": "Freiburg",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Klimawandel",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9211/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9211/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9211/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9211/tiles.dzi",
+  "sources": []
+}
