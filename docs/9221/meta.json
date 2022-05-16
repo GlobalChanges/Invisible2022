@@ -1,0 +1,49 @@
+{
+  "id": "9221",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Augen auf beim Schokokauf!",
+  "abstract": "Welche Probleme stehen hionter dem Griff zur Schokolade?",
+  "authors": [
+    {
+      "email": "mn246@uni-freiburg.de",
+      "firstname": "Melanie",
+      "name": "Nosbüsch",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "kd151@uni-freiburg.de",
+      "firstname": "Kaya",
+      "name": "Dünzen",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": ["Ghana","Elfenbeinküste"],
+    "continent": "Afrika",
+    "landscape": "Agrar",
+    "latitude": 6.9,
+    "longitude": -3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wertebasiert",
+  "topic": "Ernährung",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9221/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9221/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9221/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9221/tiles.dzi",
+  "sources": []
+}
