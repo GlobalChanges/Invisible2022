@@ -1,0 +1,42 @@
+{
+  "id": "9218",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Schwinden die Wasserreserven der Alpen?",
+  "abstract": "Auswirkungen des Klimawandels auf das Abflussverhalten gletschergespeister Fluesse am Beispiel des Rheins.",
+  "authors": [
+    {
+      "email": "fj56@uni-freiburg.de",
+      "firstname": "Florian",
+      "name": "Jehn",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": null,
+    "countries": ["Deutschland","Frankreich","Schweiz"],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 49.8,
+    "longitude": 8.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Wirkpfade",
+  "topic": "Wasser",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9218/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9218/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9218/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9218/tiles.dzi",
+  "sources": []
+}
