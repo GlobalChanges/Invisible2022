@@ -1,0 +1,42 @@
+{
+  "id": "9217",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Die Waldstategie 2050",
+  "abstract": "Die Waldstategie 2050",
+  "authors": [
+    {
+      "email": "nh343@uni-freiburg.de",
+      "firstname": "Nadia",
+      "name": "Helmbold",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Wald",
+    "latitude": 51,
+    "longitude": 8.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Biodiversität",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9217/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9217/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9217/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9217/tiles.dzi",
+  "sources": []
+}
