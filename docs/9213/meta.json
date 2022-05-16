@@ -1,0 +1,42 @@
+{
+  "id": "9213",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Unsichtbares Wasser auf Reise",
+  "abstract": "Unsichtbares Wasser auf Reise - Deutschlands Wasserfussabdruck",
+  "authors": [
+    {
+      "email": "ff109@uni-freiburg.de",
+      "firstname": "Franziska",
+      "name": "Fedder",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Fluss",
+    "latitude": 52.5,
+    "longitude": 8.4,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Wirtschaft",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9213/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9213/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9213/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9213/tiles.dzi",
+  "sources": []
+}
