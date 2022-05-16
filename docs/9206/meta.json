@@ -1,0 +1,49 @@
+{
+  "id": "9206",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Warum die Meere steigen...",
+  "abstract": "Warum die Meere steigen...",
+  "authors": [
+    {
+      "email": "pm262@uni-freiburg.de",
+      "firstname": "Paul",
+      "name": "Margies",
+      "freidok": "",
+      "orcid": ""
+    },
+    {
+      "email": "df177@uni-freiburg.de",
+      "firstname": "Dennis",
+      "name": "Freese",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Meer",
+    "latitude": -34.4,
+    "longitude": -144.4,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Meeresspiegel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9206/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9206/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9206/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9206/tiles.dzi",
+  "sources": []
+}
