@@ -1,0 +1,42 @@
+{
+  "id": "9209",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "The climate is changing and so are environmental movements!",
+  "abstract": "The climate is changing and so are environmental movements!",
+  "authors": [
+    {
+      "email": "mn246@uni-freiburg.de",
+      "firstname": "Melanie",
+      "name": "Nosbüsch",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Großstadt",
+    "latitude": -34.9,
+    "longitude": -145.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Zeitreihen",
+  "topic": "Klimawandel",
+  "subtopic": "Politik",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9209/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9209/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9209/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9209/tiles.dzi",
+  "sources": []
+}
