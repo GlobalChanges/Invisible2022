@@ -26,11 +26,11 @@
   "location": {
     "country": null,
     "countries": ["Ghana","Nicaragua","Deutschland"],
-    "continent": "Afrika",
+    "continent": "Europa",
     "landscape": "Agrar",
-    "latitude": 6.9,
-    "longitude": -3,
-    "city": "",
+    "latitude": 48.6,
+    "longitude": 9.1,
+    "city": "Waldenbuch",
     "region": ""
   },
   "concept": "Wertebasiert",
