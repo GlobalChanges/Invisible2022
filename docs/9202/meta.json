@@ -1,0 +1,42 @@
+{
+  "id": "9202",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Gesundheit unter Hitzestress",
+  "abstract": "Gesundheit unter Hitzestress - Wer ist besonders betroffen?",
+  "authors": [
+    {
+      "email": "mt355@uni-freiburg.de",
+      "firstname": "Mareike",
+      "name": "Thomas",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 48.9,
+    "longitude": 10.8,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Vulnerabel&Resilienz",
+  "topic": "Gesundheit",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9202/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9202/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9202/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9202/tiles.dzi",
+  "sources": []
+}
