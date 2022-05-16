@@ -1,0 +1,42 @@
+{
+  "id": "9204",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Werden die Alpen immer gefaehrlicher?",
+  "abstract": "Werden die Alpen immer gefaehrlicher? Auswirkungen des Klimawandels auf alpiune Naturgefahren",
+  "authors": [
+    {
+      "email": "fj56@uni-freiburg.de",
+      "firstname": "Florian",
+      "name": "Jehn",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Gebirge",
+    "latitude": 45.5,
+    "longitude": 7.2,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Erwärmung",
+  "subtopic": "Katastrophe",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9204/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9204/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9204/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9204/tiles.dzi",
+  "sources": []
+}
