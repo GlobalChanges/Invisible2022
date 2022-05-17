@@ -28,8 +28,8 @@
     "countries": [],
     "continent": "Welt",
     "landscape": "Küste",
-    "latitude": "-33.0",
-    "longitude": "-135",
+    "latitude": -33.0,
+    "longitude": -135.0,
     "city": "",
     "region": ""
   },
