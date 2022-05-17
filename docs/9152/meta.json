@@ -21,8 +21,8 @@
     "countries": [],
     "continent": "Welt",
     "landscape": "Fluss",
-    "latitude": -33,
-    "longitude": -143,
+    "latitude": -33.0,
+    "longitude": -143.0,
     "city": "",
     "region": ""
   },
