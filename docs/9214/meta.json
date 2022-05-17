@@ -1,0 +1,42 @@
+{
+  "id": "9214",
+  "year": "2022",
+  "freidok": "",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "Ernaehrung und Flaechenverbrauch",
+  "abstract": "Ernaehrung und Flaechenverbrauch",
+  "authors": [
+    {
+      "email": "bk209@uni-freiburg.de",
+      "firstname": "Benoit",
+      "name": "Kirchen",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Agrar",
+    "latitude": -34.4,
+    "longitude": -144.6,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Landnutzung",
+  "subtopic": "Ernährung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9214/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9214/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9214/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9214/tiles.dzi",
+  "sources": []
+}
