@@ -1,0 +1,43 @@
+{
+  "id": "9223",
+  "year": "2023",
+  "freidok": "",
+  "issue": "9223",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Ausgleich als (Ent-)Schädigung?",
+  "abstract": "Ausgleich als (Ent-)Schädigung?\nUntersuchung der Ausgleichsflächen des neuen Stad�eils Dietenbach",
+  "authors": [
+    {
+      "email": "egon.mustermensch@example.de",
+      "firstname": "Egon",
+      "name": "Mustermensch",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 48.006,
+    "longitude": 7.797,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Urbanisierung",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/9223/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/9223/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/9223/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/9223/tiles.dzi",
+  "sources": []
+}
