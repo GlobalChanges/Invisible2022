@@ -1,0 +1,43 @@
+{
+  "id": "9224",
+  "year": "2022",
+  "freidok": "",
+  "issue": "9224",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Neuer Stadtteil im Hochwasserschutzgebiet?",
+  "abstract": "Neuer Stadtteil im Hochwasserschutzgebiet?\nEine kritische Betrachtung des Ausbaus der Dietenbachaue",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Almut",
+      "name": "Ballstaedt",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 48.006,
+    "longitude": 7.797,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Hochwasser",
+  "subtopic": "Landnutzung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9224/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9224/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9224/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9224/tiles.dzi",
+  "sources": []
+}
