@@ -7,7 +7,7 @@
   "language": "de",
   "orientation": "portrait",
   "title": "Ausgleich als (Ent-)Schädigung?",
-  "abstract": "Ausgleich als (Ent-)Schädigung?\nUntersuchung der Ausgleichsflächen des neuen Stad�eils Dietenbach",
+  "abstract": "Ausgleich als (Ent-)Schädigung?\nUntersuchung der Ausgleichsflächen des neuen Stadteils Dietenbach",
   "authors": [
     {
       "email": "egon.mustermensch@example.de",
@@ -22,8 +22,8 @@
     "countries": [],
     "continent": "Europa",
     "landscape": "Großstadt",
-    "latitude": 48.006,
-    "longitude": 7.797,
+    "latitude": 48.008,
+    "longitude": 7.792,
     "city": "",
     "region": ""
   },
