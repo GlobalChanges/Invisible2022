@@ -1,0 +1,43 @@
+{
+  "id": "9227",
+  "year": "2022",
+  "freidok": "",
+  "issue": "9227",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "In Dietenbach wird abgegraben ...",
+  "abstract": "In Dietenbach wird abgegraben ...\nFruchtbarer Oberboden ist ein wertvolles Gut, und darf nicht einfach verdichtet, versiegelt und bebaut werden.",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Jule",
+      "name": "Niepmann",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 48.008,
+    "longitude": 7.79,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Critical Zones",
+  "topic": "Landnutzung",
+  "subtopic": "Urbanisierung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9227/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9227/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9227/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9227/tiles.dzi",
+  "sources": []
+}
