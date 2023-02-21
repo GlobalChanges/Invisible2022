@@ -1,0 +1,43 @@
+{
+  "id": "9226",
+  "year": "2022",
+  "freidok": "",
+  "issue": "9226",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Tun wir genug, um Ökosysteme effektiv zu schützen?",
+  "abstract": "Tun wir genug, um Ökosysteme effektiv zu schützen?\nEine Untersuchung zu den Auswirkungen von Landnutzung auf die Ökosysteme innerhalb eines Naturschutzgebietes am Beispiel des Freiburger Rieselfelds",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Florian",
+      "name": "Jehn",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 48.004,
+    "longitude": 7.77,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Diskursanalyse",
+  "topic": "Klimawandel",
+  "subtopic": "Erwärmung",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9226/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9226/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9226/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9226/tiles.dzi",
+  "sources": []
+}
