@@ -11,8 +11,8 @@
   "authors": [
     {
       "email": "",
-      "firstname": "",
-      "name": "",
+      "firstname": "Paul",
+      "name": "Margies",
       "freidok": "",
       "orcid": ""
     }
@@ -22,8 +22,8 @@
     "countries": [],
     "continent": "Europa",
     "landscape": "Großstadt",
-    "latitude": 48.73,
-    "longitude": 9.3,
+    "latitude": 48.73496,
+    "longitude": 9.28208,
     "city": "",
     "region": ""
   },
