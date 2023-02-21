@@ -1,0 +1,43 @@
+{
+  "id": "9229",
+  "year": "2022",
+  "freidok": "",
+  "issue": "9229",
+  "doi": "",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "CO 2 -Kompensation: Ein Wegweiser",
+  "abstract": "CO 2 -Kompensation: Ein Wegweiser",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "",
+      "name": "",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -41,
+    "longitude": -150,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Footprint",
+  "topic": "Verkehr",
+  "subtopic": "Konsum",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9229/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9229/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9229/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9229/tiles.dzi",
+  "sources": []
+}
