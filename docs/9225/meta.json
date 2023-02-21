@@ -1,0 +1,43 @@
+{
+  "id": "9225",
+  "year": "2022",
+  "freidok": "",
+  "issue": "9225",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Klimaneutrales Fliegen?",
+  "abstract": "Klimaneutrales Fliegen?\nCO2-Kompensation von Exkursionsreisen: Greenwashing oder Klimalösung?",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "Manuel",
+      "name": "Kohler",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "None",
+    "countries": [],
+    "continent": "Welt",
+    "landscape": "Atmosphäre",
+    "latitude": -41,
+    "longitude": -150,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Politische Ökologie",
+  "topic": "Klimawandel",
+  "subtopic": "Verkehr",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9225/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9225/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9225/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9225/tiles.dzi",
+  "sources": []
+}
