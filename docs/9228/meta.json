@@ -1,0 +1,43 @@
+{
+  "id": "9228",
+  "year": "2022",
+  "freidok": "",
+  "issue": "9228",
+  "doi": "",
+  "language": "de",
+  "orientation": "portrait",
+  "title": "Grüner Wasserstoff – Nachhaltig oder Greenwashing?",
+  "abstract": "Grüner Wasserstoff in der Neuen Weststadt, Esslingen –\nNachhaltig oder Greenwashing?",
+  "authors": [
+    {
+      "email": "",
+      "firstname": "",
+      "name": "",
+      "freidok": "",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Deutschland",
+    "countries": [],
+    "continent": "Europa",
+    "landscape": "Großstadt",
+    "latitude": 48.73,
+    "longitude": 9.3,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Netzwerkanalyse",
+  "topic": "Energie",
+  "subtopic": "Ressourcen",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/Invisible2022/9228/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/Invisible2022/9228/thumbnail.png",
+  "icon": "https://globalchanges.github.io/Invisible2022/9228/icon.png",
+  "tiles": "https://globalchanges.github.io/Invisible2022/9228/tiles.dzi",
+  "sources": []
+}
